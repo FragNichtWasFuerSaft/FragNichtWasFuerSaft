@@ -9,7 +9,7 @@
 
 -✨ inspired by things like the parabolic-multiplier approach used in analog computers ^^
 
--👾 wants to become a really good progammer / pro gammer 
+-👾 wants to become a really good progammer / pro gamer 
 
 
 <!--
