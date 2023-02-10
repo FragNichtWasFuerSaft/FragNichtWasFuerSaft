@@ -1,8 +1,13 @@
 ### Hi there 👋
+-
 👩🏻‍🎓 student in Germany
+-
 ♥ very eager to learn new things, especially AI!
+-
 ⚡ music and caffeine are the best sources of energy
+-
 ✨ inspired by things like the parabolic-multiplier approach used in analog computers ^^
+-
 👾 wants to become a really good progammer 
 
 <!--
