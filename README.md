@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-👩🏻‍🎓 student in Germany
+📚 student in Germany
 -
 ♥ very eager to learn new things, especially AI!
 -
