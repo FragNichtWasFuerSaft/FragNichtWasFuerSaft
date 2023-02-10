@@ -1,4 +1,5 @@
 ### Hi there 👋
+
 -
 👩🏻‍🎓 student in Germany
 -
@@ -9,6 +10,7 @@
 ✨ inspired by things like the parabolic-multiplier approach used in analog computers ^^
 -
 👾 wants to become a really good progammer 
+-
 
 <!--
 **FragNichtWasFuerSaft/FragNichtWasFuerSaft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
